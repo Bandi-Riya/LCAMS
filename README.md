@@ -283,20 +283,6 @@ Seeded Data Includes:
 
 ---
 
-# 📸 Screenshots
-
-> Add your project screenshots here
-
-Suggested Screenshots:
-
-* Login Page
-* Dashboard
-* Asset Management
-* Maintenance Logs
-* Analytics Charts
-
----
-
 # 🚧 Challenges Faced
 
 During development, several real-world debugging and integration challenges were solved:
