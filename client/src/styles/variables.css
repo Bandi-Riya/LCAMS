@@ -1,0 +1,27 @@
+/* Design tokens and color system for LCAMS */
+
+:root {
+  --color-primary: #1e3a5f;
+  --color-primary-light: #2c5f8a;
+  --color-accent: #e8a020;
+  --color-danger: #c0392b;
+  --color-success: #27ae60;
+  --color-warning: #f39c12;
+  --color-neutral: #95a5a6;
+  --color-bg: #f4f6f9;
+  --color-surface: #ffffff;
+  --color-border: #dde3ea;
+  --color-text: #2d3748;
+  --color-text-light: #718096;
+
+  --sidebar-width: 260px;
+  --navbar-height: 64px;
+  --border-radius: 8px;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.12);
+
+  --font-family-base: 'DM Sans', system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', sans-serif;
+  --font-size-base: 14px;
+}
+
